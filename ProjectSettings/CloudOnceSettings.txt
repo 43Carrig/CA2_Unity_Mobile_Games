@@ -1,0 +1,29 @@
+{
+	"AchievementIDs":[
+		{
+			"InternalID":"Beginner",
+			"AppleID":"",
+			"GoogleID":"CgkImMDulvYOEAIQAg"
+		},
+		{
+			"InternalID":"Expert",
+			"AppleID":"",
+			"GoogleID":"CgkImMDulvYOEAIQAA"
+		}
+	],
+	"LeaderboardIDs":[
+		{
+			"InternalID":"MyGameHighScore",
+			"AppleID":"",
+			"GoogleID":"CgkImMDulvYOEAIQAQ"
+		}
+	],
+	"CloudVariables":[],
+	"AppleSupported":false,
+	"GoogleSupported":true,
+	"GoogleAppID":"512759668760",
+	"GoogleSetupRun":true,
+	"DebugModeEnabled":false,
+	"Version":"2.6.7",
+	"SettingsLocation":"0"
+}

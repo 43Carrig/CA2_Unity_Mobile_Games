@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0e20246-6eac-49d6-9a1a-f9326d3e987d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.21472868">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/Scripts/Google Services Related Scripts/GooglePlaySer.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="6" column="81" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="81" />
+                  <folding>
+                    <marker date="1555631861745" expanded="false" signature="6:73" ph="..." />
+                    <marker date="1555631861745" expanded="true" signature="75:302" ph="/* Reference: https://www.youtube.com/watch?v=5Ae8GeRmdH0&amp;ab_channel=ResoCoder // Google Play Developer Console ... */" />
+                    <marker date="1555631861745" expanded="true" signature="346:1472" ph="{...}" />
+                    <marker date="1555631861745" expanded="true" signature="402:619" ph="{...}" />
+                    <marker date="1555631861745" expanded="true" signature="639:706" ph="{...}" />
+                    <marker date="1555631861745" expanded="false" signature="713:1163" ph="Achievements" />
+                    <marker date="1555631861745" expanded="true" signature="785:853" ph="{...}" />
+                    <marker date="1555631861745" expanded="true" signature="932:1039" ph="{...}" />
+                    <marker date="1555631861745" expanded="true" signature="1085:1134" ph="{...}" />
+                    <marker date="1555631861745" expanded="false" signature="1170:1470" ph="Leaderboards" />
+                    <marker date="1555631861745" expanded="true" signature="1269:1347" ph="{...}" />
+                    <marker date="1555631861745" expanded="true" signature="1393:1441" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/Scripts/Google Services Related Scripts/ManagerScript.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" column="115" selection-start-line="4" selection-start-column="115" selection-end-line="4" selection-end-column="115" />
+                  <folding>
+                    <marker date="1555631860244" expanded="true" signature="20:247" ph="/* Reference: https://www.youtube.com/watch?v=5Ae8GeRmdH0&amp;ab_channel=ResoCoder // Google Play Developer Console ... */" />
+                    <marker date="1555631860244" expanded="true" signature="291:810" ph="{...}" />
+                    <marker date="1555631860244" expanded="true" signature="464:496" ph="{...}" />
+                    <marker date="1555631860244" expanded="true" signature="533:610" ph="{...}" />
+                    <marker date="1555631860244" expanded="true" signature="642:808" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/Scripts/Google Services Related Scripts/UIScript.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="285">
+                  <caret line="23" column="26" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="26" />
+                  <folding>
+                    <marker date="1555691110386" expanded="false" signature="6:40" ph="..." />
+                    <marker date="1555691110386" expanded="true" signature="43:528" ph="/* Reference: https://www.youtube.com/watch?v=5Ae8GeRmdH0&amp;ab_channel=ResoCoder // Google Play Developer Console ... */" />
+                    <marker date="1555691110386" expanded="true" signature="568:1498" ph="{...}" />
+                    <marker date="1555691110386" expanded="true" signature="685:717" ph="{...}" />
+                    <marker date="1555691110386" expanded="true" signature="797:860" ph="{...}" />
+                    <marker date="1555691110386" expanded="true" signature="888:946" ph="{...}" />
+                    <marker date="1555691110386" expanded="true" signature="976:1080" ph="{...}" />
+                    <marker date="1555691110386" expanded="true" signature="1107:1202" ph="{...}" />
+                    <marker date="1555691110386" expanded="true" signature="1239:1295" ph="{...}" />
+                    <marker date="1555691110386" expanded="true" signature="1332:1388" ph="{...}" />
+                    <marker date="1555691110386" expanded="true" signature="1425:1496" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/GoogleMobileAdsDemoScript.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="449">
+                  <caret line="302" column="5" selection-start-line="289" selection-start-column="4" selection-end-line="302" selection-end-column="5" />
+                  <folding>
+                    <marker date="1555767556011" expanded="false" signature="6:82" ph="..." />
+                    <marker date="1555767556011" expanded="true" signature="214:15033" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="526:577" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="602:1785" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="1811:2008" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="1826:1934" ph="/* Calculate simple moving average for time to render screen. 0.1 factor used as smoothing ... */" />
+                    <marker date="1555767556011" expanded="true" signature="2033:5697" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="3009:3063" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="3288:3347" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="3588:3648" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="3882:3939" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="4181:4242" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="4495:4562" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="4816:4884" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="5119:5183" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="5411:5472" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="5793:6199" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="6233:7356" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="6691:6750" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="7396:8543" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="7862:7923" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="8590:9936" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="9065:9133" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="9980:10355" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="10392:10603" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="10440:10498" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="10511:10597" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="10644:10872" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="10696:10758" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="10771:10866" ph="{...}" />
+                    <marker date="1555767556011" expanded="false" signature="10878:11688" ph="Banner callback handlers" />
+                    <marker date="1555767556011" expanded="true" signature="10973:11047" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="11130:11243" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="11306:11380" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="11443:11517" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="11589:11672" ph="{...}" />
+                    <marker date="1555767556011" expanded="false" signature="11694:12620" ph="Interstitial callback handlers" />
+                    <marker date="1555767556011" expanded="true" signature="11805:11889" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="11982:12115" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="12188:12272" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="12345:12429" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="12511:12604" ph="{...}" />
+                    <marker date="1555767556011" expanded="false" signature="12626:13601" ph="Native express ad callback handlers" />
+                    <marker date="1555767556011" expanded="true" signature="12745:12834" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="12931:13072" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="13148:13237" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="13313:13402" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="13487:13585" ph="{...}" />
+                    <marker date="1555767556011" expanded="false" signature="13607:15031" ph="RewardBasedVideo callback handlers" />
+                    <marker date="1555767556011" expanded="true" signature="13726:13814" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="13911:14048" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="14125:14213" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="14291:14380" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="14457:14545" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="14621:14832" ph="{...}" />
+                    <marker date="1555767556011" expanded="true" signature="14918:15015" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/Scripts/Google ADs and Unity AD and Game Related Scripts/ButtonManager.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-744">
+                  <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+                  <folding>
+                    <marker date="1555780090713" expanded="false" signature="6:211" ph="..." />
+                    <marker date="1555780090713" expanded="true" signature="292:10426" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="487:657" ph="/* Reference: Creating a Start Menu / Main Menu - https://www.youtube.com/watch?v=FrJogRBSzFo ... */" />
+                    <marker date="1555780090713" expanded="true" signature="705:763" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="794:834" ph="{...}" />
+                    <marker date="1555780090713" expanded="false" signature="921:1825" ph="Request Unity Video Ad" />
+                    <marker date="1555780090713" expanded="true" signature="1120:1317" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="1195:1311" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="1368:1809" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="1398:1803" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="1947:2375" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="2420:2830" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="2478:2590" ph="/* .AddTestDevice(AdRequest.TestDeviceSimulator) ... */" />
+                    <marker date="1555780090713" expanded="true" signature="2863:2971" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="2906:2965" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="3004:3130" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="3056:3124" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="3163:4334" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="3669:3728" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="4373:5568" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="4887:4948" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="5618:6964" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="6093:6161" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="7012:7435" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="7475:7686" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="7523:7581" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="7594:7680" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="7696:8506" ph="Banner callback handlers" />
+                    <marker date="1555780090713" expanded="true" signature="7791:7865" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="7948:8061" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="8124:8198" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="8261:8335" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="8407:8490" ph="{...}" />
+                    <marker date="1555780090713" expanded="false" signature="8512:9438" ph="Interstitial callback handlers" />
+                    <marker date="1555780090713" expanded="true" signature="8623:8707" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="8800:8933" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="9006:9090" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="9163:9247" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="9329:9422" ph="{...}" />
+                    <marker date="1555780090713" expanded="false" signature="9444:10419" ph="Native express ad callback handlers" />
+                    <marker date="1555780090713" expanded="true" signature="9563:9652" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="9749:9890" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="9966:10055" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="10131:10220" ph="{...}" />
+                    <marker date="1555780090713" expanded="true" signature="10305:10403" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>requestre</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/GPGSIds.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Google ADs and Unity AD and Game Related Scripts/ButtonManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Google Services Related Scripts/GooglePlaySer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Google Services Related Scripts/UIScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Google Services Related Scripts/ManagerScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleMobileAdsDemoScript.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/GooglePlaySer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ManagerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Google Services Related Scripts/GooglePlaySer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Google Services Related Scripts/ManagerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Google Services Related Scripts/UIScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Google ADs and Unity AD and Game Related Scripts/ButtonManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Google ADs and Unity AD and Game Related Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Google Services Related Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0e20246-6eac-49d6-9a1a-f9326d3e987d" name="Default Changelist" comment="" />
+      <created>1555615881009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555615881009</updated>
+      <workItem from="1555615883531" duration="4272000" />
+      <workItem from="1555627417270" duration="1405000" />
+      <workItem from="1555685129820" duration="3268000" />
+      <workItem from="1555694717077" duration="4456000" />
+      <workItem from="1555707372708" duration="2626000" />
+      <workItem from="1555767447416" duration="3721000" />
+      <workItem from="1555778962677" duration="1843000" />
+      <workItem from="1555782953566" duration="160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21751000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13422818" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ManagerScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UIScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GooglePlaySer.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/GPGSIds.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+          <folding>
+            <marker date="1555615344584" expanded="true" signature="0:690" ph="/* &lt;copyright file=&quot;GPGSIds.cs&quot; company=&quot;Google Inc.&quot;&gt; ... */" />
+            <marker date="1555615344584" expanded="true" signature="692:852" ph="/// This file is automatically generated DO NOT EDIT! ... " />
+            <marker date="1555615344584" expanded="true" signature="882:1172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Google Services Related Scripts/GooglePlaySer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="81" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="81" />
+          <folding>
+            <marker date="1555631861745" expanded="false" signature="6:73" ph="..." />
+            <marker date="1555631861745" expanded="true" signature="75:302" ph="/* Reference: https://www.youtube.com/watch?v=5Ae8GeRmdH0&amp;ab_channel=ResoCoder // Google Play Developer Console ... */" />
+            <marker date="1555631861745" expanded="true" signature="346:1472" ph="{...}" />
+            <marker date="1555631861745" expanded="true" signature="402:619" ph="{...}" />
+            <marker date="1555631861745" expanded="true" signature="639:706" ph="{...}" />
+            <marker date="1555631861745" expanded="false" signature="713:1163" ph="Achievements" />
+            <marker date="1555631861745" expanded="true" signature="785:853" ph="{...}" />
+            <marker date="1555631861745" expanded="true" signature="932:1039" ph="{...}" />
+            <marker date="1555631861745" expanded="true" signature="1085:1134" ph="{...}" />
+            <marker date="1555631861745" expanded="false" signature="1170:1470" ph="Leaderboards" />
+            <marker date="1555631861745" expanded="true" signature="1269:1347" ph="{...}" />
+            <marker date="1555631861745" expanded="true" signature="1393:1441" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Google Services Related Scripts/ManagerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="115" selection-start-line="4" selection-start-column="115" selection-end-line="4" selection-end-column="115" />
+          <folding>
+            <marker date="1555631860244" expanded="true" signature="20:247" ph="/* Reference: https://www.youtube.com/watch?v=5Ae8GeRmdH0&amp;ab_channel=ResoCoder // Google Play Developer Console ... */" />
+            <marker date="1555631860244" expanded="true" signature="291:810" ph="{...}" />
+            <marker date="1555631860244" expanded="true" signature="464:496" ph="{...}" />
+            <marker date="1555631860244" expanded="true" signature="533:610" ph="{...}" />
+            <marker date="1555631860244" expanded="true" signature="642:808" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Google Services Related Scripts/UIScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <marker date="1555691110386" expanded="false" signature="6:40" ph="..." />
+            <marker date="1555691110386" expanded="true" signature="43:528" ph="/* Reference: https://www.youtube.com/watch?v=5Ae8GeRmdH0&amp;ab_channel=ResoCoder // Google Play Developer Console ... */" />
+            <marker date="1555691110386" expanded="true" signature="685:717" ph="{...}" />
+            <marker date="1555691110386" expanded="true" signature="797:860" ph="{...}" />
+            <marker date="1555691110386" expanded="true" signature="888:946" ph="{...}" />
+            <marker date="1555691110386" expanded="true" signature="976:1080" ph="{...}" />
+            <marker date="1555691110386" expanded="true" signature="1107:1202" ph="{...}" />
+            <marker date="1555691110386" expanded="true" signature="1239:1295" ph="{...}" />
+            <marker date="1555691110386" expanded="true" signature="1332:1388" ph="{...}" />
+            <marker date="1555691110386" expanded="true" signature="1425:1496" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleMobileAdsDemoScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="302" column="5" selection-start-line="289" selection-start-column="4" selection-end-line="302" selection-end-column="5" />
+          <folding>
+            <marker date="1555767556011" expanded="false" signature="6:82" ph="..." />
+            <marker date="1555767556011" expanded="true" signature="214:15033" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="526:577" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="602:1785" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="1811:2008" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="1826:1934" ph="/* Calculate simple moving average for time to render screen. 0.1 factor used as smoothing ... */" />
+            <marker date="1555767556011" expanded="true" signature="2033:5697" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="3009:3063" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="3288:3347" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="3588:3648" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="3882:3939" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="4181:4242" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="4495:4562" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="4816:4884" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="5119:5183" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="5411:5472" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="5793:6199" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="6233:7356" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="6691:6750" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="7396:8543" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="7862:7923" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="8590:9936" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="9065:9133" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="9980:10355" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="10392:10603" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="10440:10498" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="10511:10597" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="10644:10872" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="10696:10758" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="10771:10866" ph="{...}" />
+            <marker date="1555767556011" expanded="false" signature="10878:11688" ph="Banner callback handlers" />
+            <marker date="1555767556011" expanded="true" signature="10973:11047" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="11130:11243" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="11306:11380" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="11443:11517" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="11589:11672" ph="{...}" />
+            <marker date="1555767556011" expanded="false" signature="11694:12620" ph="Interstitial callback handlers" />
+            <marker date="1555767556011" expanded="true" signature="11805:11889" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="11982:12115" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="12188:12272" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="12345:12429" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="12511:12604" ph="{...}" />
+            <marker date="1555767556011" expanded="false" signature="12626:13601" ph="Native express ad callback handlers" />
+            <marker date="1555767556011" expanded="true" signature="12745:12834" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="12931:13072" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="13148:13237" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="13313:13402" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="13487:13585" ph="{...}" />
+            <marker date="1555767556011" expanded="false" signature="13607:15031" ph="RewardBasedVideo callback handlers" />
+            <marker date="1555767556011" expanded="true" signature="13726:13814" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="13911:14048" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="14125:14213" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="14291:14380" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="14457:14545" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="14621:14832" ph="{...}" />
+            <marker date="1555767556011" expanded="true" signature="14918:15015" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Google ADs and Unity AD and Game Related Scripts/ButtonManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-744">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <marker date="1555780090713" expanded="false" signature="6:211" ph="..." />
+            <marker date="1555780090713" expanded="true" signature="292:10426" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="487:657" ph="/* Reference: Creating a Start Menu / Main Menu - https://www.youtube.com/watch?v=FrJogRBSzFo ... */" />
+            <marker date="1555780090713" expanded="true" signature="705:763" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="794:834" ph="{...}" />
+            <marker date="1555780090713" expanded="false" signature="921:1825" ph="Request Unity Video Ad" />
+            <marker date="1555780090713" expanded="true" signature="1120:1317" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="1195:1311" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="1368:1809" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="1398:1803" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="1947:2375" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="2420:2830" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="2478:2590" ph="/* .AddTestDevice(AdRequest.TestDeviceSimulator) ... */" />
+            <marker date="1555780090713" expanded="true" signature="2863:2971" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="2906:2965" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="3004:3130" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="3056:3124" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="3163:4334" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="3669:3728" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="4373:5568" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="4887:4948" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="5618:6964" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="6093:6161" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="7012:7435" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="7475:7686" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="7523:7581" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="7594:7680" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="7696:8506" ph="Banner callback handlers" />
+            <marker date="1555780090713" expanded="true" signature="7791:7865" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="7948:8061" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="8124:8198" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="8261:8335" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="8407:8490" ph="{...}" />
+            <marker date="1555780090713" expanded="false" signature="8512:9438" ph="Interstitial callback handlers" />
+            <marker date="1555780090713" expanded="true" signature="8623:8707" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="8800:8933" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="9006:9090" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="9163:9247" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="9329:9422" ph="{...}" />
+            <marker date="1555780090713" expanded="false" signature="9444:10419" ph="Native express ad callback handlers" />
+            <marker date="1555780090713" expanded="true" signature="9563:9652" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="9749:9890" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="9966:10055" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="10131:10220" ph="{...}" />
+            <marker date="1555780090713" expanded="true" signature="10305:10403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
